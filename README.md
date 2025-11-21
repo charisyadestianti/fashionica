@@ -1,2 +1,0 @@
-# fashionica
-web
